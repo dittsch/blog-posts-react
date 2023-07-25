@@ -1,0 +1,23 @@
+[
+  {
+    "id": 6211362,
+    "author": {
+      "name": "John Doe",
+      "avatar": "https://tinyurl.com/author-avatar"
+    },
+    "created": 1690199301,
+    "updated": 1690202317,
+    "title": "This is the title!",
+    "content": "This is the post's content!"
+  },
+  {
+    "id": 6211579,
+    "author": {
+      "name": "John Doe 2",
+      "avatar": ""
+    },
+    "created": 1690202492,
+    "title": "New post!",
+    "content": ""
+  }
+]
